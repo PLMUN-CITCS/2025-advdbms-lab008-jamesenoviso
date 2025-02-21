@@ -1,3 +1,4 @@
+USE `BookstoreDB`;
 
 -- Insert into Books
 INSERT INTO `Books` (`ISBN`, `Title`, `Price`) VALUES
