@@ -1,6 +1,5 @@
 CREATE DATABASE `BookstoreDB`;
 
-USE `BookstoreDB`;
 
 -- Books Table [cite: 11]
 CREATE TABLE `Books` (
